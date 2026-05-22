@@ -1,9 +1,11 @@
 - Programacion-Est.-D04
+  
 Nombre del estudiante: Diego Zaragoza Hernandez
 Código: 222592394
 Sección: D04
 Profesor:JORGE ERNESTO LOPEZ ARCE DELGADO
 - DESCRIPCION.
+  
 Repositorio de actividades y evidencias desarrolladas durante el curso de
 Programación Estructurada en lenguaje C.
 - TEMAS TRABAJADOS.
